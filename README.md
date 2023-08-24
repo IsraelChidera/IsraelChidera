@@ -15,4 +15,5 @@
 <p> ⚡ Fun fact: I love playing the piano </p>
 
 <h1>My Contributions</h1>
-<p> I write insightful and informative articles on topics related to web development and object-oriented programming languages. You can check out some of my articles <a href="https://www.freecodecamp.org/news/author/israelchidera/" target="_blank">here</a></p>. You can reach me via <a href="mailto:israelchidera54@gmail.com" target="_blank">Email</a> if you are sourcing for technical writers that can communicate technical ideas to a wide range of audiences, from fellow developers to business stakeholders 
+<p> I write insightful and informative articles on topics related to web development and object-oriented programming languages. You can check out some of my articles <a href="https://www.freecodecamp.org/news/author/israelchidera/" target="_blank">here</a></p> 
+<p>You can reach me via <a href="mailto:israelchidera54@gmail.com" target="_blank">Email</a> if you are sourcing for technical writers that can communicate technical ideas to a wide range of audiences, from fellow developers to business stakeholders  </p>
