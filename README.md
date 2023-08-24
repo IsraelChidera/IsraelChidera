@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Hi 👋 Welcome to my space</h1>
+<h4>
+    Hey there! I'm [Your Name], a passionate software engineer with a knack for crafting top-notch web experiences. My journey is fueled by a relentless pursuit of improvement – each day, my goal is to be 1% better than I was yesterday. 
+</h4>
 
 <!--
 **IsraelChidera/IsraelChidera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
