@@ -4,9 +4,8 @@
 </p>
 
 
-
-<h1>My Walk </h1>
-<p> 🔭 I’m currently working on projects with React JS, Next Js and Typescript </p>
+<h1>My Walk 🤝</h1>
+<p> 🔭 I’m currently working on projects with React JS, Next Js, Typescript and .NET </p>
 <p> 🌱 I’m currently learning about clean coding, Angular, databases and front end architecture </p>
 <p> 👯 I’m looking to collaborate on projects that utilize technologies like JavaScript, React, Next, TypeScript etc </p>
 <p> 🤔 I’m looking for help with mentorship and connections. As Oprah Winfrey once said, "Mentorship is the art of making connections that enable us to see the possibilities within ourselves" </p>
@@ -15,4 +14,5 @@
 <p> 😄 Pronouns ... (He/Him) </p>
 <p> ⚡ Fun fact: I love playing the piano </p>
 
-
+<h1>My Contributions</h1>
+<p> I write insightful and informative articles on topics related to web development and object-oriented programming languages. You can check out some of my articles <a href="https://www.freecodecamp.org/news/author/israelchidera/" target="_blank">here</a></p>. You can reach me via <a href="mailto:israelchidera54@gmail.com" target="_blank">Email</a> if you are sourcing for technical writers that can communicate technical ideas to a wide range of audiences, from fellow developers to business stakeholders 
