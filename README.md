@@ -1,19 +1,20 @@
-<h1>Hi 👋 Welcome to my Space</h1>
-<p>
-    Hey there! I'm Israel Chidera, a passionate software engineer with a knack for crafting top-notch web experiences. My journey is fueled by a relentless pursuit of improvement – each day, my goal is to be 1% better than I was yesterday🚀
-</p>
+### Hi, I'm Israel Chidera Edeh
 
+Software engineer in Lagos, Nigeria, focused on AI engineering. I've spent 5+ years shipping production software across the stack, from enterprise payroll and AI document extraction to booking, payments, and logistics platforms. I also build LLM-powered services in Python: retrieval-augmented generation, embeddings-based search, and reliable model integration.
 
-<h1>My Walk 🤝</h1>
-<p> 🔭 I’m currently working on projects with React JS, Next Js, Typescript and .NET </p>
-<p> 🌱 I’m currently learning about clean coding, Angular, databases and front end architecture </p>
-<p> 👯 I’m looking to collaborate on projects that utilize technologies like JavaScript, React, Next, TypeScript etc </p>
-<p> 🤔 I’m looking for help with mentorship and connections. As Oprah Winfrey once said, "Mentorship is the art of making connections that enable us to see the possibilities within ourselves" </p>
-<p> 💬 Ask me about starting a career in tech, technical writing, React JS and productivity hacks </p>
-<p> 📫 How to reach me: You can reach me via <a href="https://twitter.com/ChideraEl" target="_blank">X(formerly called Twitter)</a>, <a href="https://www.linkedin.com/in/israel-chidera-97bbab89/" target="_blank">Linkedin</a>, <a href="mailto:israelchidera54@gmail.com" target="_blank">Email</a>
-<p> 😄 Pronouns ... (He/Him) </p>
-<p> ⚡ Fun fact: I love playing the piano </p>
+**AI engineering:** Python, FastAPI, Pydantic, Google Gemini API, RAG, embeddings, Azure Document Intelligence
+**Backend:** C#/.NET Core, ASP.NET Core, Entity Framework Core, SQL Server, Node.js, Express
+**Frontend:** TypeScript, React, Next.js, Redux Toolkit, RTK Query, Tailwind CSS
 
-<h1>My Contributions</h1>
-<p> I write insightful and informative articles on topics related to web development and object-oriented programming languages. You can check out some of my articles <a href="https://www.freecodecamp.org/news/author/israelchidera/" target="_blank">here</a></p> 
-<p>You can reach me via <a href="mailto:israelchidera54@gmail.com" target="_blank">Email</a> if you are sourcing for technical writers that can communicate technical ideas to a wide range of audiences, from fellow developers to business stakeholders  </p>
+#### What I'm building
+
+- **[AI Gateway API](https://github.com/IsraelChidera/AI-Gateway-API)**: a FastAPI service for LLM chat and retrieval-augmented Q&A. It has a provider-agnostic interface, retries with backoff, timeouts, source-cited answers, and a guardrail that refuses to answer when no stored document is relevant.
+- **[WeRunAm](https://werunam.com)**: a Lagos errands, market-sourcing and logistics platform I founded and built with Next.js and Firebase.
+
+#### Writing
+
+I write technical tutorials for [freeCodeCamp](https://www.freecodecamp.org/news/author/israelchidera/), including guides to securing routes in Next.js and Firebase Authentication in React.
+
+#### Find me
+
+[LinkedIn](https://www.linkedin.com/in/israel-chidera-97bbab89/) · [Portfolio](https://israelchidera.netlify.app) · [X](https://x.com/ChideraEl)
