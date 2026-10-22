@@ -1,4 +1,4 @@
-### Hi, I'm Israel Chidera Edeh
+### Hi, I'm Israel Chidera
 
 Software engineer in Lagos, Nigeria, focused on AI engineering. I've spent 5+ years shipping production software across the stack, from enterprise payroll and AI document extraction to booking, payments, and logistics platforms. I also build LLM-powered services in Python: retrieval-augmented generation, embeddings-based search, and reliable model integration.
 
